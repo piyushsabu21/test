@@ -1,0 +1,19 @@
+style-light.css:23
+.notification-menu-item {
+padding: 2% 1% 1% 1%
+
+jv-jquery-mobile-menu.css:3
+.mobile-nav{
+    height: 91.25%;
+    top: 50px;
+
+
+
+style-light.css:105
+.notification-bubble {
+z-index:999
+
+
+bootstrap.min.css:42
+-webkit-transition: 300ms ease all;
+  transition: 300ms ease all;
